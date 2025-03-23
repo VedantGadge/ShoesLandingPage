@@ -13,4 +13,3 @@ An interactive and sleek e-commerce website for buying shoes, built using **Reac
 - **Frontend:** React, Tailwind CSS  
 - **Deployment:** Vite  
 
-Check it out 👉 [GitHub Repository](https://github.com/VedantGadge)  
